@@ -1,5 +1,5 @@
 # SVG-phpBB-smilies
-SVG « Scalable Vector Graphics » smileys for phpBB
+SVG « Scalable Vector Graphics » smileys for phpBB with smilies.pak and extra-smilies.pak for click installation
 
 # screenshots
 phpBB smilies
